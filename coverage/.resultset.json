@@ -555,15 +555,19 @@
       ],
       "/Users/Guest/Desktop/flickr_rails/config/routes.rb": [
         1,
+        1,
+        1,
+        1,
         null,
-        1,
-        1,
         null
       ],
       "/Users/Guest/Desktop/flickr_rails/app/models/user.rb": [
         1,
         null,
         null,
+        1,
+        null,
+        1,
         1,
         null,
         1,
@@ -578,6 +582,14 @@
       "/Users/Guest/Desktop/flickr_rails/app/controllers/application_controller.rb": [
         1,
         1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        0,
+        0,
+        null,
         null
       ],
       "/Users/Guest/Desktop/flickr_rails/app/helpers/application_helper.rb": [
@@ -592,6 +604,11 @@
       ],
       "/Users/Guest/Desktop/flickr_rails/app/channels/application_cable/connection.rb": [
         1,
+        1,
+        null,
+        null
+      ],
+      "/Users/Guest/Desktop/flickr_rails/app/controllers/images_controller.rb": [
         1,
         null,
         null
@@ -638,6 +655,6 @@
         null
       ]
     },
-    "timestamp": 1499294947
+    "timestamp": 1499354646
   }
 }
